@@ -1,0 +1,46 @@
+.top{
+			width: 100%;height: 30px;background-color: rgb(51,51,51);margin-top: 0;
+		}
+		.navigation{margin-left: 15%;width: 40%;height: 30px;}
+		.nav_text{text-decoration: none;font-size: 10px;margin-top: 10%;}
+		.navigation a{color: #b0b0b0;}
+		.navigation a:hover{color: white;}
+		.symbol{color: #424242;}
+		.rigis_login{right: 25%;width: 10%;height: 30px;position: absolute;top: 8px;}
+		.rigis_login a{color:#b0b0b0;}
+		.rigis_login a:hover{color: white;}
+		.shop_cart{position: absolute;right: 20%;width: 6%;height: 30px;background-color: rgb(66,66,66);top: 8px;}
+		.original_shop{position: absolute;left: 12px;top: 5px;}
+		.hover_shop{display: none;position: absolute;left: 12px;top: 5px;}
+		.shop_cart a:hover .hover_shop{display: block;}
+		.shop_cart a:hover .shop_text{color: #ff4500;}
+
+
+		.nav_head{width: 100%;height: 100px;}
+		.logo{margin-left: 15%;padding-top: 20px;height: 55px;width: 55px;float: left;}
+		.nav_content{width: 45%;
+				    height: 100px;
+				    /*position: absolute;left: 20%;top: 40px;*/
+				    float: left;
+				    }
+		.nav_item{float: left;margin-left: 10px;padding:4px;font-size:14px;}
+		.nav_content a:link{color: black;}
+		.nav_content a:hover{color: #ff4500;}
+		.nav_search{
+			    /*position: absolute;*/
+			    /*right: 20%;*/
+			    width: 13%;
+			    height: 40px;
+			    border: 1px solid #e0e0e0;
+			    /*top: 68px;*/
+			    float: right;
+			    margin-right: 315px;
+			    margin-top: 26px;
+		}
+		.search{height: 35px;line-height: 35px;font-size: 14px;width: 148px;float: left;}
+		.hover_nav{width: 100%;height: 190px;position: absolute;border-bottom: 1px solid #e0e0e0;border-top: 1px solid #e0e0e0;box-shadow: 2px 2px 2px #e0e0e0;background-color:white;}
+		.container_nav{width: 60%;margin-left: 20%;height: 190px;}
+		.container_nav ul{list-style-type: none;margin-block-start: -1em;padding-inline-start: 25px;}
+		.container_nav li{float: left;width: 16%;height: 190px;text-align: center;border-right: 1px solid #e0e0e0}
+		.container_nav div{margin-top: 30px;}
+		.container_nav span a{text-decoration: none;color: #000;}

@@ -1,0 +1,16 @@
+.transition{
+			height: 160px;width: 958px;margin-left: 230px;margin-top: 10px;
+		}
+		.transition_nav{list-style-type: none;margin: 0;
+					    padding: 3px;
+					    font-size: 12px;
+					    text-align: center;
+					    
+						}
+		.transition_nav li{position: relative;
+						    float: left;
+						    width: 68px;
+						    height: 80px;
+						    padding: 0 3px;
+						}
+		.transition_nav a{text-decoration: none;color:rgba(255,255,255,0.7)}
